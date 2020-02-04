@@ -1,0 +1,21 @@
+Metadata-Version: 1.0
+Name: mypackage
+Version: 0.1
+Summary: # mypackage
+This library was created as an example of how to publish your own Python package
+
+## building this package locally
+'python setup.py sdist'
+
+## installing this package from GitHub
+'pip install git+https://github.com/Gugu-Mtonjeni/example-python-package-git'
+
+## updating this package from GitHub
+pip install --upgrade git+https://github.com/Gugu-Mtonjeni/example-python-package-git'
+
+Home-page: https://github.com/<username>/<package-name>
+Author: <Gugu Mtonjeni>
+Author-email: <gammtonjeni@gmail.com>
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
